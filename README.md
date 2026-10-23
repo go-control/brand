@@ -8,11 +8,12 @@ The mark is the closed loop every control textbook draws: a summing junction, a
 block, the output, and the feedback path that carries the output back to the
 junction. It is written by `mark/main.go`, which derives every coordinate from
 the sizes of the parts and centres the drawing; nothing is placed by hand. Its
-gradient (`#3FB6CC` to `#0E6B7D`) is a teal that sets go-control apart from the
-violet of go-numerics, the emerald of go-ndarray and go-fft, the blue of
-go-plot, the magenta of go-bignum, the coral of go-sparse, the orange of
-go-approx and the rose of go-dsp; its dark end reads on white at 6.14:1 and its
-light end on a dark page at 8.07:1.
+gradient (`#33BF66` to `#0D7131`) is a blue-green (hue 142) that sets go-control apart
+from the emerald of go-ndarray, go-fft and go-notebook (163), the yellow-green
+of go-fem (115), the blue of go-plot, the violet of go-numerics and go-symbolic,
+the magenta of go-bignum, the coral of go-sparse, the orange of go-approx and
+the rose of go-dsp; its dark end reads on white at 6.13:1 and its light end on
+a dark page at 8.08:1.
 
 ## Formats
 
