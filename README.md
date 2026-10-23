@@ -13,7 +13,7 @@ from the emerald of go-ndarray, go-fft and go-notebook (163), the yellow-green
 of go-fem (115), the blue of go-plot, the violet of go-numerics and go-symbolic,
 the magenta of go-bignum, the coral of go-sparse, the orange of go-approx and
 the rose of go-dsp; its dark end reads on white at 6.13:1 and its light end on
-a dark page at 8.10:1.
+a dark page at 8.08:1.
 
 ## Formats
 
